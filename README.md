@@ -1,2 +1,2 @@
-# SeleniumPyhtonFrameworks
+# SeleniumJavaFrameworks
 Selenium Testing practice code
